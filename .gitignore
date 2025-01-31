@@ -1,0 +1,17 @@
+/thePathLessTraveled/.idea
+/thePathLessTraveled/.ionic
+/thePathLessTraveled/.sass-cache
+/thePathLessTraveled/.sourcemaps
+/thePathLessTraveled/.versions
+/thePathLessTraveled/.vscode/*
+/thePathLessTraveled/.vscode/extensions.json
+/thePathLessTraveled/coverage
+/thePathLessTraveled/node_modules
+/thePathLessTraveled/platforms
+/thePathLessTraveled/plugins
+/thePathLessTraveled/www
+
+/thePathLessTraveled/.env
+
+/backend/.venv/*
+/backend/__pycache__
